@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @hack174
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- this is html code for u guys  -->
+
+<html>/>
+  <head>
+    <title>
+      Hello 👋 
+    </title>
+  </head>
+  <body>
+    <staring>Hello 👋</staring>
+  </body>
+</html>
 
 <!---
 hack174/hack174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
